@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_ip1interface_ip1interface,ip1interface.ip1interface,model_ip1interface_ip1interface,,1,0,0,0
